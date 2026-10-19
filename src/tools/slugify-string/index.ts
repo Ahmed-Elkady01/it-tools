@@ -1,4 +1,4 @@
-import { AbcRound } from '@vicons/material';
+import AbcRound from '@vicons/material/es/AbcRound';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

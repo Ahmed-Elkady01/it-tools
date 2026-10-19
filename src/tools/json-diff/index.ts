@@ -1,4 +1,4 @@
-import { CompareArrowsRound } from '@vicons/material';
+import CompareArrowsRound from '@vicons/material/es/CompareArrowsRound';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

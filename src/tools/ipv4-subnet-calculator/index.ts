@@ -1,4 +1,4 @@
-import { RouterOutlined } from '@vicons/material';
+import RouterOutlined from '@vicons/material/es/RouterOutlined';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

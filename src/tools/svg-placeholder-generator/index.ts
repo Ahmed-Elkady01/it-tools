@@ -1,4 +1,4 @@
-import { ImageOutlined } from '@vicons/material';
+import ImageOutlined from '@vicons/material/es/ImageOutlined';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 
