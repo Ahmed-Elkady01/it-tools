@@ -1,4 +1,4 @@
-import SpeedFilled from '@vicons/material/es/SpeedFilled';
+import { SpeedFilled } from '@vicons/material';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

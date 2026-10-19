@@ -1,4 +1,4 @@
-import ShortTextRound from '@vicons/material/es/ShortTextRound';
+import { ShortTextRound } from '@vicons/material';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

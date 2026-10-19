@@ -1,4 +1,4 @@
-import HttpRound from '@vicons/material/es/HttpRound';
+import { HttpRound } from '@vicons/material';
 import { defineTool } from '../tool';
 
 import { codesByCategories } from './http-status-codes.constants';

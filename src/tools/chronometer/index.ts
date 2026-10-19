@@ -1,4 +1,4 @@
-import TimerOutlined from '@vicons/material/es/TimerOutlined';
+import { TimerOutlined } from '@vicons/material';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 

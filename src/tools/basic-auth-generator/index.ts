@@ -1,4 +1,4 @@
-import PasswordRound from '@vicons/material/es/PasswordRound';
+import { PasswordRound } from '@vicons/material';
 import { defineTool } from '../tool';
 import { translate } from '@/plugins/i18n.plugin';
 
