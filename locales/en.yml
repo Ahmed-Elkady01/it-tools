@@ -105,6 +105,17 @@ tools:
     title: JSON to CSV
     description: Convert JSON to CSV with automatic header detection.
 
+  csv-to-json:
+    title: CSV to JSON
+    description: Convert CSV to formatted JSON using the header row as object keys.
+    input-label: Your raw CSV
+    input-placeholder: Paste your raw CSV here...
+    output-label: JSON version of your CSV
+    errors:
+      long-row: 'Row {row} has more fields than the header row.'
+      unterminated-quote: 'Row {row} has an unterminated quoted field. Add the closing double quote.'
+      invalid-quote: 'Row {row} has an invalid double quote. Wrap the entire field in double quotes and escape internal quotes as two double quotes.'
+
   camera-recorder:
     title: Camera recorder
     description: Take a picture or record a video from your webcam or camera.
